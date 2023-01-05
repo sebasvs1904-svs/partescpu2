@@ -50,24 +50,20 @@ nav ul li:hover {
   overflow:hidden;
 }
 
-body{
-background-image: url("img/fondo2.jpg");
-background-size: 100%;
 
-}
 section{
 width: 80%;
   margin: auto;
   overflow:hidden;
     font-size: 20px;
-background-color:  rgba(182, 75, 3, 0.623);
+background-color:  rgba(4, 156, 148, 0.651);
 }
 h1{
   
   font-family: 'Righteous', cursive;
-    background-color:rgba(142, 4, 66, 0.51);
+    background-color:rgba(158, 0, 158, 0.51);
     color: ivory;
-    font-size: 45px;
+    font-size: 50px;
 }
 img{
   display: grid;
@@ -79,8 +75,8 @@ img{
 p{
   font-family: 'cursive', cursive;
   
-  color: rgb(255, 255, 255);
-  font-size: 25px;
+  color: rgb(0, 0, 0);
+  font-size: 35px;
 }
 n ul{
   list-style-type: symbols('🎠');
