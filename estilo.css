@@ -60,7 +60,7 @@ background-color:  rgba(4, 156, 148, 0.651);
 }
 h1{
   
-  font-family: 'Righteous', cursive;
+  font-family: Arial, sans-serif;
     background-color:rgba(158, 0, 158, 0.51);
     color: ivory;
     font-size: 50px;
@@ -73,7 +73,7 @@ img{
 
 }
 p{
-  font-family: 'cursive', cursive;
+  font-family: Arial, sans-serif;
   
   color: rgb(0, 0, 0);
   font-size: 35px;
@@ -100,9 +100,25 @@ hr{
  div  {
   display: none;
 }
-#section7 {
-  display: block;
-}
+
 #section0{
   display: block;
+}
+#img_principal2{
+  margin-top: 4em;
+  margin-left: 67rem;
+  width:150px;
+  height:150px;
+  align-items: "rigth";
+}
+#img_principal{
+  margin-top: -7.35em;
+  margin-left: 3rem;
+  width:150px;
+  height:150px;
+  align-items: "rigth";
+}
+#Lamamada{
+  width: 800px;
+  height: 350px;
 }
